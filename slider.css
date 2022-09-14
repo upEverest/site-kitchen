@@ -1,0 +1,22 @@
+.slider{
+   margin: 0 auto;
+    width: 250px;
+    height: 250px; 
+  display: block !important;
+}
+ .slider_item{
+    height: 250px; 
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /* background-position-x: 40%; */
+    margin-left: auto;
+    margin-right: auto;
+} 
+.foto{
+    width: 100%;
+    height: 100%;
+}
+.slider_item h3{
+    font-size: 1.5em;
+    text-align: center;
+}
